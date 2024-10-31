@@ -18,7 +18,7 @@
 			</div> 
 		</div>
 
-
+<p>ghi chú</p>
 		<div class="item">
 			<div class="untree_co-hero" style="background-image: url('../public/images/banner/balace.jpg');">
 				<div class="container">
