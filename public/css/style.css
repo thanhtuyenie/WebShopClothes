@@ -349,7 +349,7 @@ h1, .h1, h2, .h2, h3, .h3, h4, .h4 {
           display: inline-block; }
           .site-nav .site-navigation .site-menu > li.active > a:after {
             content: "";
-            height: 3px;
+            height: 2px;
             left: 15px;
             right: 15px;
             bottom: 0;

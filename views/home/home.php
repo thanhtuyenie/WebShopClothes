@@ -1,7 +1,7 @@
-<!-- hahahaah -->
+
 <div class="owl-carousel owl-single home-slider">
 		<div class="item">
-			<div class="untree_co-hero" style="background-image: url('../public/images/banner/blouse.jpg');">
+			<div class="untree_co-hero" style="background-image: url('../public/images/banner/store.jpg');">
 				<div class="container">
 					<div class="row align-items-center">
 						<div class="col-lg-6">
@@ -18,14 +18,14 @@
 			</div> 
 		</div>
 
-<p>ghi chú</p>
+
 		<div class="item">
 			<div class="untree_co-hero" style="background-image: url('../public/images/banner/balace.jpg');">
 				<div class="container">
 					<div class="row align-items-center">
 						<div class="col-lg-6">
 
-							<h1 class="mb-4 heading" data-aos="fade-up" >Tự tin thể hiện phong cách của bạn bởi <a href="index.php">Aura Fashion</a></h1>
+							<h1 class="mb-4 heading" data-aos="fade-up" data-aos-delay="100">Tự tin thể hiện phong cách của bạn bởi <a href="index.php">Aura Fashion</a></h1>
 							<div class="mb-5 text-white desc mx-auto" data-aos="fade-up" data-aos-delay="200">
 							</div>
 
@@ -44,18 +44,19 @@
 		<div class="container">
 
 
-			<div class="deal-hero overlay" style="background-image: url('../public/images/banner/woman.jpg')"> 
+			<div class="deal-hero overlay" data-aos-delay="300" style="background-image: url('../public/images/banner/woman.jpg')"> 
 				<div class="deal-contents">
 					<span class="subtitle">Giảm giá 20%</span>
 					<h2 class="title mb-4"><a href="#">Bộ sưu tập Fall - Winter</a></h2>
 					<p class="mb-5">Mua sắm thỏa thích tại Aura Fashion</p>
-					<a href="#" class="btn btn-black" style="color:aliceblue;">Mua ngay</a>
+					<a href="#" class="btn btn-black" >Mua ngay</a>
 				</div>
 			</div> 
 
 		</div>
 	</div>
 
+	
 	<!-- product1 -->
 	<div class="untree_co-section">
 		<div class="container">

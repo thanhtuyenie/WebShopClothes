@@ -32,16 +32,16 @@
 
 			<div class="container position-relative">
 				<div class="site-navigation text-center dark">
-					<a href="?act=home" class="logo menu-absolute m-0">Aura Fashion<span class="text-primary">.</span></a>
+					<a href="?act=home" class="logo menu-absolute m-0">Aura Fashion<span class="text-primary"></span></a>
 
 					<ul class="js-clone-nav pl-0 d-none d-lg-inline-block site-menu">
 						<li class="active"><a href="?act=home">Trang Chủ</a></li>
 						<li class="has-children">
 							<a href="?act=shop">Cửa Hàng</a>
 							<ul class="dropdown">
-								<li><a href="#">Bomber</a></li>
-								<li><a href="#">Jacket</a></li>
-								<li><a href="#">Jean</a></li>
+								<li class="has-children"><a href="#">Bomber</a></li>
+								<li class="has-children"><a href="#">Jacket</a></li>
+								<li class="has-children"><a href="#">Jean</a></li>
 							</ul>
 						</li>
 						<li class="has-children">
