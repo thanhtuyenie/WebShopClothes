@@ -1,16 +1,29 @@
+	 
+	  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/aos/2.3.1/aos.css" />
+    <title>Test AOS</title>
+</head>
+	  <script src="https://unpkg.com/aos@2.3.1/dist/aos.js"></script>
+	  <script>
+				AOS.init();
+				</script>
+
 
 <div class="owl-carousel owl-single home-slider">
 		<div class="item">
 			<div class="untree_co-hero" style="background-image: url('../public/images/banner/store.jpg');">
-				<div class="container">
+				<div class="container">		
 					<div class="row align-items-center">
 						<div class="col-lg-6">
 						
-							<h1 class="mb-4 heading" data-aos="fade-up" >Hãy để <a href="index.php">Aura Fashion</a> có cơ hội phục vụ bạn</h1>
-							<div class="mb-5 text-white desc mx-auto" data-aos="fade-up" data-aos-delay="200">
+							<h1 class="mb-4 heading" data-aos="fade-up" data-aos-duration="300"><a href="index.php">Hãy để Aura Fashion</a> có cơ hội phục vụ bạn</h1>
+							<div class="mb-5 text-white desc mx-auto" data-aos="fade-up" >
 							</div>
+							
 
-							<p class="mb-0" data-aos="fade-up" data-aos-delay="300"><a href="#" class="btn btn-outline-black">Khám phá</a></p>
+							<p class="mb-0" data-aos="fade-up" data-aos-delay="30"><a href="#" class="btn btn-outline-black">Khám phá</a></p>
 
 						</div>
 					</div>
@@ -44,7 +57,7 @@
 		<div class="container">
 
 
-			<div class="deal-hero overlay" data-aos-delay="300" style="background-image: url('../public/images/banner/woman.jpg')"> 
+			<div class="deal-hero overlay" data-aos-delay="300" style="background-image: url('../public/images/banner/yody.jpg')"> 
 				<div class="deal-contents">
 					<span class="subtitle">Giảm giá 20%</span>
 					<h2 class="title mb-4"><a href="#">Bộ sưu tập Fall - Winter</a></h2>

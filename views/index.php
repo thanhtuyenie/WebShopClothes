@@ -19,6 +19,12 @@
   	<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;700;900&display=swap" />
   	<link rel="stylesheet" href="css/bootstrap-login-form.min.css" />
 
+	  <link href="https://unpkg.com/aos@2.3.1/dist/aos.css" rel="stylesheet">
+	  <script src="https://unpkg.com/aos@2.3.1/dist/aos.js"></script>
+	  <script>
+				AOS.init();
+				</script>
+
 	<link rel="stylesheet" href="../public/css/bootstrap.min.css">
 	<link rel="stylesheet" href="../public/css/animate.min.css">
 	<link rel="stylesheet" href="../public/css/owl.carousel.min.css">

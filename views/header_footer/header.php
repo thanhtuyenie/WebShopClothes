@@ -39,11 +39,16 @@
 						<li class="has-children">
 							<a href="?act=shop">Cửa Hàng</a>
 							<ul class="dropdown">
-								<li class="has-children"><a href="#">Bomber</a></li>
-								<li class="has-children"><a href="#">Jacket</a></li>
-								<li class="has-children"><a href="#">Jean</a></li>
+								<li class="has-children"><a href="#">Áo</a></li>
+								<li class="has-children"><a href="#">Váy</a></li>
+								<li class="has-children"><a href="#">Quần</a></li>
 							</ul>
 						</li>
+
+						<li><a href="?act=shop&gtinh=nam">Thời Trang Nam</a></li>
+						<li><a href="?act=shop&gtinh=nu">Thời Trang Nữ</a></li></li>
+
+						
 						<li class="has-children">
 							<a href="?act=page">Chi Tiết</a>
 							<ul class="dropdown">
@@ -57,8 +62,7 @@
 							</ul>
 						</li>
 
-						<li><a href="?act=shop&gtinh=nam">Thời Trang Nam</a></li>
-						<li><a href="?act=shop&gtinh=nu">Thời Trang Nữ</a></li>
+
 						
 					</ul>
 
