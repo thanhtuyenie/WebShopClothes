@@ -84,33 +84,57 @@ h1, .h1, h2, .h2, h3, .h3, h4, .h4 {
   text-transform: uppercase;
   font-weight: 700;
   letter-spacing: .05rem;
-  border-radius: 0; }
+  border-radius: ; }
   .btn:active, .btn:focus {
     outline: none;
     -webkit-box-shadow: none;
     box-shadow: none; }
   .btn.btn-primary {
-    background: #b84592;
-    border-color: #b84592; }
+    border-color: #000000;
+    color:#ffffff;
+    background: #000000; }
+
     .btn.btn-primary:hover {
-      border-color: #be539b;
-      background: #be539b; }
+      background: #b56b12;
+      color:#000;
+      border-color: #000000;  }
   .btn.btn-sm {
     padding-top: 10px;
     padding-bottom: 10px;
     padding-left: 15px;
     padding-right: 15px; }
   .btn.btn-black {
+    background: transparent;
     background: #000000;
+    border-color: #000000;
     color: #ffffff; }
+
+      .btn.btn-black.btn-lg.py-3.btn-block {
+        background: transparent;
+      background:  #e3a617;
+      border-color: #000000;
+      color:  #000000; 
+    }
+
+    .btn.btn-black.btn-lg.py-3.btn-block:hover {
+      background: transparent;
+    background:  #e3a617;
+    border-color: #000000;
+    color:  #ffffff; 
+  }
+
+    .btn.btn-black:hover {
+      color: #e3a617;
+      background: #000000; }
+
   .btn.btn-outline-black {
-    
+
     background: transparent;
     background: #000000;
     border-color: #000000;
     color: #ffffff; }
     .btn.btn-outline-black:hover {
-      color: #ab4b07;
+      color: #e3a617;
       background: #000000; }
   .btn.btn-outline-primary {
     border-color: #b84592;
@@ -135,7 +159,7 @@ h1, .h1, h2, .h2, h3, .h3, h4, .h4 {
   color: #000000; }
   .form-control:active, .form-control:focus, .custom-select:active, .custom-select:focus {
     color: #000000;
-    border-color: #b84592;
+    border-color:   #a35f0c;
     -webkit-box-shadow: none;
     box-shadow: none;
     background: transparent; }
