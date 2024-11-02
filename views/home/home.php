@@ -1,24 +1,18 @@
 	 
-	  <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/aos/2.3.1/aos.css" />
-    <title>Test AOS</title>
+<head><link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/aos@2.3.4/dist/aos.css" />
+<script src="https://cdn.jsdelivr.net/npm/aos@2.3.4/dist/aos.js"></script>
 </head>
-	  <script src="https://unpkg.com/aos@2.3.1/dist/aos.js"></script>
-	  <script>
-				AOS.init();
-				</script>
+
 
 
 <div class="owl-carousel owl-single home-slider">
 		<div class="item">
-			<div class="untree_co-hero" style="background-image: url('../public/images/banner/store.jpg');">
+			<div class="untree_co-hero" style="background-image: url('../public/images/banner/slider.jpg');">
 				<div class="container">		
 					<div class="row align-items-center">
 						<div class="col-lg-6">
 						
-							<h1 class="mb-4 heading" data-aos="fade-up" data-aos-duration="300"><a href="index.php">Hãy để Aura Fashion</a> có cơ hội phục vụ bạn</h1>
+							<h1 class="mb-4 heading" data-aos="fade-up" data-aos-duration="300">Hãy để<a href="index.php"> Aura Fashion</a> có cơ hội phục vụ bạn</h1>
 							<div class="mb-5 text-white desc mx-auto" data-aos="fade-up" >
 							</div>
 							
@@ -286,4 +280,6 @@
 		</div>
 	</div> 
     
-    
+    <script>
+    AOS.init();
+</script>

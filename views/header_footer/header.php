@@ -36,7 +36,7 @@
 
 					<ul class="js-clone-nav pl-0 d-none d-lg-inline-block site-menu">
 						<li class="active"><a href="?act=home">Trang Chủ</a></li>
-						<li class="has-children">
+						<li class="has-children" >
 							<a href="?act=shop">Cửa Hàng</a>
 							<ul class="dropdown">
 								<li class="has-children"><a href="#">Áo</a></li>
